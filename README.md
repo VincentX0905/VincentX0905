@@ -14,4 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincentwang0905&show_icons=true&theme=gruvbox&locale=cn" alt="我最常使用的語言"></p>
+<p><img class="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincentwang0905&show_icons=true&theme=gruvbox&locale=cn" alt="我最常使用的語言"></p>
+<style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+</style>
