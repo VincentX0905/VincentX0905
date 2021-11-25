@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **vincentwang0905/vincentwang0905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
