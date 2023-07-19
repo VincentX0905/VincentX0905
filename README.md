@@ -5,8 +5,8 @@
    <a href="https://discord.gg/Pw8z4YkBFB" alt="炸蝦機器人-FSBOT群組">
     <img src="https://img.shields.io/discord/937628164862136362?color=7289DA&label=%E7%82%B8%E8%9D%A6%E6%A9%9F%E5%99%A8%E4%BA%BAFSBOT%E7%BE%A4%E7%B5%84&Color=ffff00&logo=discord&logoColor=Blue&style=for-the-badge"/></a>
   <a href="https://discord.gg/Pw8z4YkBFB" alt="炸蝦的總星數">
-   <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=%E7%82%B8%E8%9D%A6Github%E7%B8%BD%E6%98%9F%E6%95%B8&style=for-the-badge&query=%24.stars&Color=ffff00&url=https://api.github-star-counter.workers.dev/user/vincentwang0905"></a>
+   <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=%E7%82%B8%E8%9D%A6Github%E7%B8%BD%E6%98%9F%E6%95%B8&style=for-the-badge&query=%24.stars&Color=ffff00&url=https://api.github-star-counter.workers.dev/user/VincentX0905"></a>
   </p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vincentwang0905&show_icons=true&theme=gruvbox&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&locale=cn" alt="我的統計數據"></br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincentwang0905&show_icons=true&theme=gruvbox&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&locale=cn" alt="我最常使用的語言"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=VincentX0905&show_icons=true&theme=gruvbox&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&locale=cn" alt="我的統計數據"></br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentX0905&show_icons=true&theme=gruvbox&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&locale=cn" alt="我最常使用的語言"></p>
 </body>
 </html>
