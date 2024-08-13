@@ -1,7 +1,10 @@
 <html>
  <body>
   <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&size=24&duration=2500&pause=1&color=FFFF00&center=true&vCenter=true&multiline=true&repeat=%E7%9C%9F&width=500&height=100&lines=%E5%97%A8%E4%BD%A0%E5%A5%BD%E6%88%91%E6%98%AF%E7%82%B8%E8%9D%A6(VincentX0905)!;%E9%80%99%E6%98%AF%E6%88%91%E7%9A%84%E5%84%B2%E5%AD%98%E5%BA%AB~;%E6%AD%A1%E8%BF%8E%E5%90%84%E4%BD%8D%E8%A7%80%E8%B3%9E%E8%88%87%E5%8F%96%E7%94%A8~" alt="炸蝦(VincentX0905)自我介紹" /></a></p>
+  <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&size=24&duration=2500&pause=1&color=FFFF00&center=true&vCenter=true&multiline=true&repeat=%E7%9C%9F&width=500&height=100&lines=%e6%88%91%e4%be%86%e8%87%aa%e5%8f%b0%e7%81%a3(%e4%b8%ad%e8%8f%af%e6%b0%91%e5%9c%8b)%3b+%e5%96%9c%e6%ad%a1%e7%9a%84%e8%a9%b1%e8%ab%8b%e5%b9%ab%e6%88%91%e6%8c%89%e5%80%8b%e6%98%9f%7e" alt="炸蝦(VincentX0905)自我介紹" /></a></p>
   <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&size=24&duration=2500&pause=1&color=FFFF00&center=true&vCenter=true&multiline=true&repeat=%E7%9C%9F&width=500&height=100&lines=Hi%2C+I+am+%E7%82%B8%E8%9D%A6(VincentX0905)!;+This+is+my+repository~;+You+are+welcome+to+view+and+use+it~" alt="炸蝦(VincentX0905)introduces himself" /></a></p>
+  <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&size=24&duration=2500&pause=1&color=FFFF00&center=true&vCenter=true&multiline=true&repeat=%E7%9C%9F&width=500&height=100&lines=I%27m+from+Taiwan+(Republic+of+China)%3b+if+you+like+it%2c+please+give+me+a+star%7e" alt="炸蝦(VincentX0905)introduces himself" /></a></p>
+  
  <p align="center">
    <a href="https://discord.fsbot.xyz" alt="炸蝦(VincentX0905) Discord 群組">
     <img src="https://img.shields.io/discord/1176128602018959371?color=7289DA&label=%E6%88%91%E7%9A%84%20Discord%20%E7%BE%A4%E7%B5%84&Color=ffff00&logo=discord&logoColor=Blue&style=for-the-badge"/></a>
